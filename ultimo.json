@@ -1,36 +1,36 @@
 [
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "US500",
-  "bid": 7554.4,
-  "offer": 7555.9,
-  "medio": 7555.15,
-  "variazione_pct": -0.03,
+  "bid": 7554.1,
+  "offer": 7555.6,
+  "medio": 7554.85,
+  "variazione_pct": -0.04,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:24.218"
+  "aggiornato_utc": "2026-11-09T23:32:52.220"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "US100",
-  "bid": 27946.4,
-  "offer": 27950.4,
-  "medio": 27948.4,
-  "variazione_pct": -0.06,
+  "bid": 27935.0,
+  "offer": 27939.0,
+  "medio": 27937.0,
+  "variazione_pct": -0.1,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:24.245"
+  "aggiornato_utc": "2026-11-09T23:32:52.253"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "US30",
-  "bid": 52396.3,
-  "offer": 52406.3,
-  "medio": 52401.3,
+  "bid": 52396.4,
+  "offer": 52406.4,
+  "medio": 52401.4,
   "variazione_pct": -0.03,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:24.250"
+  "aggiornato_utc": "2026-11-09T23:32:52.248"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "VIX",
   "bid": 19.7,
   "offer": 19.75,
@@ -40,7 +40,7 @@
   "aggiornato_utc": "2026-11-09T22:59:55.128"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "GOLD",
   "bid": 4140.24,
   "offer": 4142.04,
@@ -50,47 +50,47 @@
   "aggiornato_utc": "2026-11-09T22:58:58.089"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "BTCUSD",
-  "bid": 74957.0,
-  "offer": 75007.0,
-  "medio": 74982.0,
-  "variazione_pct": 0.07,
+  "bid": 75011.8,
+  "offer": 75061.8,
+  "medio": 75036.8,
+  "variazione_pct": 0.14,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:34.890"
+  "aggiornato_utc": "2026-11-09T23:32:57.092"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "EURUSD",
-  "bid": 1.12217,
-  "offer": 1.12258,
-  "medio": 1.1224,
+  "bid": 1.12215,
+  "offer": 1.12254,
+  "medio": 1.1223,
+  "variazione_pct": -0.02,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:53.479"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "SPY",
+  "bid": 752.77,
+  "offer": 753.58,
+  "medio": 753.175,
   "variazione_pct": -0.01,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:19.647"
+  "aggiornato_utc": "2026-11-09T23:32:57.101"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "SPY",
-  "bid": 752.81,
-  "offer": 753.51,
-  "medio": 753.16,
-  "variazione_pct": 0.0,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:26:49.152"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "QQQ",
-  "bid": 679.5,
-  "offer": 680.02,
-  "medio": 679.76,
-  "variazione_pct": -0.07,
+  "bid": 679.19,
+  "offer": 679.71,
+  "medio": 679.45,
+  "variazione_pct": -0.12,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:20.403"
+  "aggiornato_utc": "2026-11-09T23:32:57.273"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "XLV",
   "bid": 188.19,
   "offer": 188.51,
@@ -100,7 +100,7 @@
   "aggiornato_utc": "2026-11-09T21:59:58.219"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "TAN",
   "bid": 44.94,
   "offer": 45.39,
@@ -110,17 +110,17 @@
   "aggiornato_utc": "2026-11-09T21:59:49.517"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "XLE",
-  "bid": 61.79,
-  "offer": 62.05,
-  "medio": 61.92,
-  "variazione_pct": -0.02,
+  "bid": 61.77,
+  "offer": 62.08,
+  "medio": 61.925,
+  "variazione_pct": -0.05,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:23.015"
+  "aggiornato_utc": "2026-11-09T23:29:04.170"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "XLF",
   "bid": 57.82,
   "offer": 58.09,
@@ -130,17 +130,17 @@
   "aggiornato_utc": "2026-11-09T23:26:16.266"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "SMH",
   "bid": 487.87,
-  "offer": 489.23,
-  "medio": 488.55,
+  "offer": 489.4,
+  "medio": 488.635,
   "variazione_pct": -0.2,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:32.240"
+  "aggiornato_utc": "2026-11-09T23:29:13.212"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "ARKK",
   "bid": 78.87,
   "offer": 79.09,
@@ -150,127 +150,127 @@
   "aggiornato_utc": "2026-11-09T21:59:58.233"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "AAPL",
-  "bid": 350.65,
-  "offer": 350.96,
-  "medio": 350.805,
-  "variazione_pct": 0.04,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:26:39.737"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "MSFT",
-  "bid": 544.87,
-  "offer": 545.67,
-  "medio": 545.27,
-  "variazione_pct": 0.03,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:29.884"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "NVDA",
-  "bid": 178.88,
-  "offer": 179.25,
-  "medio": 179.065,
-  "variazione_pct": -0.23,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:32.693"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "AMD",
-  "bid": 508.95,
-  "offer": 509.99,
-  "medio": 509.47,
-  "variazione_pct": -0.26,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:36.705"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "AMZN",
-  "bid": 268.2,
-  "offer": 268.55,
-  "medio": 268.375,
+  "bid": 350.83,
+  "offer": 351.15,
+  "medio": 350.99,
   "variazione_pct": 0.09,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:32.612"
+  "aggiornato_utc": "2026-11-09T23:32:45.471"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "MSFT",
+  "bid": 544.33,
+  "offer": 545.67,
+  "medio": 545.0,
+  "variazione_pct": -0.07,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:53.136"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "NVDA",
+  "bid": 178.6,
+  "offer": 178.92,
+  "medio": 178.76,
+  "variazione_pct": -0.39,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:55.441"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "AMD",
+  "bid": 509.2,
+  "offer": 510.11,
+  "medio": 509.655,
+  "variazione_pct": -0.21,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:24.284"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "AMZN",
+  "bid": 268.15,
+  "offer": 268.49,
+  "medio": 268.32,
+  "variazione_pct": 0.07,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:57.181"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "GOOGL",
-  "bid": 290.0,
-  "offer": 290.32,
-  "medio": 290.16,
-  "variazione_pct": -0.11,
+  "bid": 289.41,
+  "offer": 290.05,
+  "medio": 289.73,
+  "variazione_pct": -0.32,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:34.530"
+  "aggiornato_utc": "2026-11-09T23:32:20.493"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "META",
-  "bid": 643.68,
-  "offer": 644.95,
-  "medio": 644.315,
-  "variazione_pct": -0.16,
+  "bid": 643.92,
+  "offer": 644.7,
+  "medio": 644.31,
+  "variazione_pct": -0.12,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:36.147"
+  "aggiornato_utc": "2026-11-09T23:32:06.372"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "TSLA",
-  "bid": 378.36,
-  "offer": 378.87,
-  "medio": 378.615,
-  "variazione_pct": -0.2,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:21.346"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "AVGO",
-  "bid": 319.95,
-  "offer": 321.15,
-  "medio": 320.55,
-  "variazione_pct": -0.24,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:20.769"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "MU",
-  "bid": 733.12,
-  "offer": 734.63,
-  "medio": 733.875,
-  "variazione_pct": -0.36,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:34.076"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "PLTR",
-  "bid": 169.7,
-  "offer": 170.25,
-  "medio": 169.975,
-  "variazione_pct": -0.09,
-  "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:04.226"
- },
- {
-  "ora_utc": "2026-11-09 22:27:33",
-  "simbolo": "SMCI",
-  "bid": 28.77,
-  "offer": 28.98,
-  "medio": 28.875,
+  "bid": 378.45,
+  "offer": 379.03,
+  "medio": 378.74,
   "variazione_pct": -0.17,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:21.460"
+  "aggiornato_utc": "2026-11-09T23:32:14.815"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "AVGO",
+  "bid": 320.26,
+  "offer": 321.15,
+  "medio": 320.705,
+  "variazione_pct": -0.14,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:25.005"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "MU",
+  "bid": 733.84,
+  "offer": 734.98,
+  "medio": 734.41,
+  "variazione_pct": -0.26,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:32:57.536"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "PLTR",
+  "bid": 169.77,
+  "offer": 170.25,
+  "medio": 170.01,
+  "variazione_pct": -0.05,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:30:08.155"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
+  "simbolo": "SMCI",
+  "bid": 28.77,
+  "offer": 28.89,
+  "medio": 28.83,
+  "variazione_pct": -0.17,
+  "stato_mercato": "TRADEABLE",
+  "aggiornato_utc": "2026-11-09T23:31:20.901"
+ },
+ {
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "NFLX",
   "bid": 63.72,
   "offer": 63.93,
@@ -280,37 +280,37 @@
   "aggiornato_utc": "2026-11-09T23:27:19.014"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "INTC",
-  "bid": 59.24,
+  "bid": 59.22,
   "offer": 59.45,
-  "medio": 59.345,
-  "variazione_pct": -0.55,
+  "medio": 59.335,
+  "variazione_pct": -0.59,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:26.902"
+  "aggiornato_utc": "2026-11-09T23:33:01.372"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "QCOM",
   "bid": 170.86,
-  "offer": 171.79,
-  "medio": 171.325,
+  "offer": 171.68,
+  "medio": 171.27,
   "variazione_pct": -0.54,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:22.694"
+  "aggiornato_utc": "2026-11-09T23:32:56.003"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "ORCL",
-  "bid": 120.12,
-  "offer": 120.73,
-  "medio": 120.425,
-  "variazione_pct": -0.2,
+  "bid": 120.13,
+  "offer": 120.62,
+  "medio": 120.375,
+  "variazione_pct": -0.19,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:34.429"
+  "aggiornato_utc": "2026-11-09T23:31:52.678"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "CRM",
   "bid": 214.1,
   "offer": 215.4,
@@ -320,47 +320,47 @@
   "aggiornato_utc": "2026-11-09T23:21:00.569"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "ADBE",
   "bid": 236.85,
   "offer": 237.65,
   "medio": 237.25,
   "variazione_pct": 0.0,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:12:40.924"
+  "aggiornato_utc": "2026-11-09T23:32:22.213"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "COIN",
   "bid": 136.22,
-  "offer": 136.6,
-  "medio": 136.41,
+  "offer": 137.15,
+  "medio": 136.685,
   "variazione_pct": 0.07,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:32.284"
+  "aggiornato_utc": "2026-11-09T23:32:44.943"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "MSTR",
-  "bid": 125.87,
+  "bid": 126.01,
   "offer": 126.41,
-  "medio": 126.14,
-  "variazione_pct": 0.21,
+  "medio": 126.21,
+  "variazione_pct": 0.33,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:09.323"
+  "aggiornato_utc": "2026-11-09T23:32:44.741"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "PYPL",
-  "bid": 59.66,
+  "bid": 59.76,
   "offer": 60.27,
-  "medio": 59.965,
-  "variazione_pct": 0.1,
+  "medio": 60.015,
+  "variazione_pct": 0.27,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:17.644"
+  "aggiornato_utc": "2026-11-09T23:33:02.080"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "SQ",
   "bid": 4140.24,
   "offer": 4142.04,
@@ -370,17 +370,17 @@
   "aggiornato_utc": "2026-11-09T22:58:58.089"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "HOOD",
-  "bid": 83.39,
+  "bid": 83.47,
   "offer": 83.86,
-  "medio": 83.625,
-  "variazione_pct": 0.06,
+  "medio": 83.665,
+  "variazione_pct": 0.16,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:23:27.314"
+  "aggiornato_utc": "2026-11-09T23:32:27.613"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "JPM",
   "bid": 340.85,
   "offer": 342.83,
@@ -390,17 +390,17 @@
   "aggiornato_utc": "2026-11-09T23:16:17.974"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "BAC",
-  "bid": 50.44,
+  "bid": 50.45,
   "offer": 50.77,
-  "medio": 50.605,
-  "variazione_pct": 0.08,
+  "medio": 50.61,
+  "variazione_pct": 0.1,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:21:55.931"
+  "aggiornato_utc": "2026-11-09T23:32:19.127"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "GS",
   "bid": 905.81,
   "offer": 907.37,
@@ -410,7 +410,7 @@
   "aggiornato_utc": "2026-11-09T21:59:57.456"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "V",
   "bid": 420.59,
   "offer": 422.55,
@@ -420,7 +420,7 @@
   "aggiornato_utc": "2026-11-09T23:24:52.259"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "MA",
   "bid": 650.01,
   "offer": 656.67,
@@ -430,7 +430,7 @@
   "aggiornato_utc": "2026-11-09T23:26:24.382"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "PFE",
   "bid": 29.19,
   "offer": 29.35,
@@ -440,57 +440,57 @@
   "aggiornato_utc": "2026-11-09T23:16:11.933"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "LLY",
   "bid": 1410.57,
   "offer": 1412.43,
   "medio": 1411.5,
-  "variazione_pct": -0.09,
+  "variazione_pct": -0.14,
   "stato_mercato": "TRADEABLE",
   "aggiornato_utc": "2026-11-09T23:26:25.744"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "JNJ",
   "bid": 281.15,
   "offer": 282.26,
   "medio": 281.705,
   "variazione_pct": 0.07,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:27:20.143"
+  "aggiornato_utc": "2026-11-09T23:32:54.760"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "MRNA",
-  "bid": 270.87,
+  "bid": 271.15,
   "offer": 271.65,
-  "medio": 271.26,
-  "variazione_pct": -0.21,
+  "medio": 271.4,
+  "variazione_pct": -0.11,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:22:37.103"
+  "aggiornato_utc": "2026-11-09T23:28:15.066"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "XOM",
-  "bid": 164.46,
-  "offer": 164.93,
-  "medio": 164.695,
-  "variazione_pct": 0.0,
+  "bid": 164.45,
+  "offer": 164.92,
+  "medio": 164.685,
+  "variazione_pct": -0.01,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:26:14.623"
+  "aggiornato_utc": "2026-11-09T23:29:04.173"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "CVX",
   "bid": 210.45,
   "offer": 211.55,
   "medio": 211.0,
   "variazione_pct": 0.23,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:25:37.701"
+  "aggiornato_utc": "2026-11-09T23:28:21.711"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "KO",
   "bid": 4140.24,
   "offer": 4142.04,
@@ -500,7 +500,7 @@
   "aggiornato_utc": "2026-11-09T22:58:58.089"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "PEP",
   "bid": 141.72,
   "offer": 142.06,
@@ -510,7 +510,7 @@
   "aggiornato_utc": "2026-11-09T21:59:57.621"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "MCD",
   "bid": 281.27,
   "offer": 281.76,
@@ -520,17 +520,17 @@
   "aggiornato_utc": "2026-11-09T21:59:57.742"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "WMT",
-  "bid": 125.29,
+  "bid": 125.23,
   "offer": 125.8,
-  "medio": 125.545,
-  "variazione_pct": 0.02,
+  "medio": 125.515,
+  "variazione_pct": -0.03,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:25:20.191"
+  "aggiornato_utc": "2026-11-09T23:32:21.780"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "COST",
   "bid": 1063.69,
   "offer": 1064.83,
@@ -540,27 +540,27 @@
   "aggiornato_utc": "2026-11-09T23:24:36.356"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "DIS",
-  "bid": 118.55,
+  "bid": 118.56,
   "offer": 119.27,
-  "medio": 118.91,
-  "variazione_pct": 0.03,
+  "medio": 118.915,
+  "variazione_pct": 0.04,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:25:18.664"
+  "aggiornato_utc": "2026-11-09T23:32:24.983"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "NKE",
-  "bid": 39.65,
-  "offer": 39.82,
-  "medio": 39.735,
-  "variazione_pct": -0.03,
+  "bid": 39.66,
+  "offer": 39.91,
+  "medio": 39.785,
+  "variazione_pct": 0.0,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:24:17.804"
+  "aggiornato_utc": "2026-11-09T23:29:17.324"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "RACE",
   "bid": 418.69,
   "offer": 419.25,
@@ -570,7 +570,7 @@
   "aggiornato_utc": "2026-11-09T21:59:57.301"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "BA",
   "bid": 8.723,
   "offer": 8.762,
@@ -580,7 +580,7 @@
   "aggiornato_utc": "2026-11-09T17:29:56.169"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "CAT",
   "bid": 598.53,
   "offer": 599.09,
@@ -590,7 +590,7 @@
   "aggiornato_utc": "2026-11-09T21:59:57.354"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "F",
   "bid": 4140.24,
   "offer": 4142.04,
@@ -600,7 +600,7 @@
   "aggiornato_utc": "2026-11-09T22:58:58.089"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "GM",
   "bid": 88.66,
   "offer": 90.12,
@@ -610,17 +610,17 @@
   "aggiornato_utc": "2026-11-09T23:06:33.121"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "FSLR",
-  "bid": 191.15,
-  "offer": 192.15,
-  "medio": 191.65,
-  "variazione_pct": -0.09,
+  "bid": 191.09,
+  "offer": 192.06,
+  "medio": 191.575,
+  "variazione_pct": -0.12,
   "stato_mercato": "TRADEABLE",
-  "aggiornato_utc": "2026-11-09T23:24:15.123"
+  "aggiornato_utc": "2026-11-09T23:29:05.395"
  },
  {
-  "ora_utc": "2026-11-09 22:27:33",
+  "ora_utc": "2026-11-09 22:32:55",
   "simbolo": "ENPH",
   "bid": 29.01,
   "offer": 29.12,
